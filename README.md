@@ -1,3 +1,3 @@
-# component_ex2
-component_ex2
-61050313 worabordin chumsintaiphat cs kmitl
+# custmailappquestion
+This is an exercise question for the class Component-Based Software Development.
+The student task is to fork this repository and complete the program.
